@@ -5,6 +5,8 @@
 	<groupId>practice</groupId>
 	<artifactId>hibernate-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>  
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.hibernate</groupId>
